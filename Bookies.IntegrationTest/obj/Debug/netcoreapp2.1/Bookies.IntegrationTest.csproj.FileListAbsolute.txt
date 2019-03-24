@@ -1,0 +1,14 @@
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/Bookies.IntegrationTest.deps.json
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/Bookies.IntegrationTest.runtimeconfig.json
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/Bookies.IntegrationTest.runtimeconfig.dev.json
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/Bookies.IntegrationTest.dll
+/Projects/core/Bookies.IntegrationTest/bin/Debug/netcoreapp2.1/Bookies.IntegrationTest.pdb
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.csprojAssemblyReference.cache
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.csproj.CoreCompileInputs.cache
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.AssemblyInfoInputs.cache
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.AssemblyInfo.cs
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.dll
+/Projects/core/Bookies.IntegrationTest/obj/Debug/netcoreapp2.1/Bookies.IntegrationTest.pdb
